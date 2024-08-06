@@ -1,0 +1,12 @@
+# Add package (add as you go)
+ipywidgets
+loguru
+matplotlib
+numpy
+pandas
+pyarrow
+requests
+s3fs[boto3]
+seaborn
+scikit-learn
+scipy
